@@ -7,7 +7,8 @@ public class IfElse {
         int n = sc.nextInt();
         if(n%2==0){
             System.out.println("podana liczba jest parzysta");
-        }else{System.out.println("podana liczba jest nieparzysta");}
+        }else{System.out.println("podana liczba jest nieparzysta");
+        }
     }
 
 
